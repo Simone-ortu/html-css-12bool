@@ -16,5 +16,10 @@
 .row [class*="col-"]{
   float: left;
   height: 83.5px ;
-  border: 1px solid black;
+}
+.black{
+  background-color: black
+}
+.green{
+  background-color: #00CC00;
 }
